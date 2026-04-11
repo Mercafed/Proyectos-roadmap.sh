@@ -26,45 +26,39 @@ todos los proyectos que publique estan todos en un mismo lugar
     <img class="card__img" src="https://mercafed.github.io/Proyectos-roadmap.sh/screenshot/javascript-cookies.png">
     <a class="card__info" href="https://github.com/Mercafed/ProyectoJS-Tabs">mas informacion</a>
   </div>
+  <style>
+    .container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      padding: 10px;
+      gap: 10px;
+      place-items: center;
+    }
+    .card {
+      width: 300px;
+      padding: 20px;
+      height: stretch;
+      border: 1px solid;
+      border-radius: 15px;
+      position: relative;
+    }
+    .card__img {
+      height: 150px;
+      border-radius: 15px;
+    }
+    .card__title {
+      padding-bottom: 10px;
+      border-bottom: 1px solid;
+      margin: 0;
+    }
+    .card__title a {
+      text-decoration: none;
+      color: #000;
+    }
+    .card__info {
+      display: block;
+      position: absolute;
+      bottom: 10px;
+    }
+  </style>
 </container>
-
-<style>
-.container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  padding: 10px;
-  gap: 10px;
-  place-items: center;
-}
-
-.card {
-  width: 300px;
-  padding: 20px;
-  height: stretch;
-  border: 1px solid;
-  border-radius: 15px;
-  position: relative;
-}
-
-.card__img {
-  height: 150px;
-  border-radius: 15px;
-}
-
-.card__title {
-  padding-bottom: 10px;
-  border-bottom: 1px solid;
-  margin: 0;
-}
-
-.card__title a {
-  text-decoration: none;
-  color: #000;
-}
-
-.card__info {
-  display: block;
-  position: absolute;
-  bottom: 10px;
-}
-</style>
