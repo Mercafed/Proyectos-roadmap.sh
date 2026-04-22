@@ -7,7 +7,8 @@ todos los proyectos que publique estan todos en un mismo lugar
 
 ## Proyectos
 
-| Proyecto | Descripción | Preview | Más información |
-|----------|-------------|---------|----------------|
-| **Proyecto pestañas** | crear una pagina donde puedas presionar en que pestaña quieres estar, del mapa de javascript | ![](https://mercafed.github.io/Proyectos-roadmap.sh/screenshot/javascript-tabs.png) | [Ver](https://mercafed.github.io/Proyectos-roadmap.sh/javascript/ProyectoJS-Tabs-main/index.html) |
-| **Proyecto Cookies** | crear ventana de concentimiento cookies con javascript, del mapa de javascript | ![](https://mercafed.github.io/Proyectos-roadmap.sh/screenshot/javascript-cookies.png) | [Ver](https://mercafed.github.io/Proyectos-roadmap.sh/javascript/ProyectoJS-Cookies-main/index.html) |
+| Proyecto | Preview | Más información |
+|----------|---------|----------------|
+| **Proyecto pestañas** | ![](https://mercafed.github.io/Proyectos-roadmap.sh/screenshot/javascript-tabs.png) | [Ver](https://mercafed.github.io/Proyectos-roadmap.sh/javascript/ProyectoJS-Tabs-main/index.html) |
+| **Proyecto Cookies** | ![](https://mercafed.github.io/Proyectos-roadmap.sh/screenshot/javascript-cookies.png) | [Ver](https://mercafed.github.io/Proyectos-roadmap.sh/javascript/ProyectoJS-Cookies-main/index.html) |
+|**Proyecto Text Area Restricted** | ![](https://mercafed.github.io/Proyectos-roadmap.sh/screenshot/text-area.png) | [Ver](https://mercafed.github.io/Proyectos-roadmap.sh/javascript/Restricted_Textarea/index.html) |
