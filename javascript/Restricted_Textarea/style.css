@@ -1,0 +1,23 @@
+.container {
+  margin: auto;
+  width: 400px;
+  height: 100px;
+  position: relative;
+}
+
+.container__form {
+  margin-bottom: 20px;
+}
+
+.container__input {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+}
+
+.container__contador {
+  font-size: 12px;
+  position: absolute;
+  bottom: -40px;
+  right: 2px;
+}
