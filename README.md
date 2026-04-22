@@ -4,6 +4,7 @@ todos los proyectos que publique estan todos en un mismo lugar
 ## links de roadmap.sh
 - [Proyecto de pestañas](https://roadmap.sh/projects/simple-tabs)
 - [Proyecto de Cookies](https://roadmap.sh/projects/cookie-consent)
+- [Proyecto de TextArea restringido](https://roadmap.sh/projects/restricted-textarea) 
 
 ## Proyectos
 
