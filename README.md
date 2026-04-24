@@ -2,14 +2,10 @@
 todos los proyectos que publique estan todos en un mismo lugar
 
 ## links de roadmap.sh
-- [Proyecto de pestañas](https://roadmap.sh/projects/simple-tabs)
-- [Proyecto de Cookies](https://roadmap.sh/projects/cookie-consent)
-- [Proyecto de TextArea restringido](https://roadmap.sh/projects/restricted-textarea) 
+### HTML
+- 01-[proyecto de CV](https://roadmap.sh/projects/single-page-cv)
 
-## Proyectos
-
-| Proyecto | Preview | Más información |
-|----------|---------|----------------|
-| **Proyecto pestañas** | ![](https://mercafed.github.io/Proyectos-roadmap.sh/screenshot/javascript-tabs.png) | [Ver](https://mercafed.github.io/Proyectos-roadmap.sh/javascript/ProyectoJS-Tabs-main/index.html) |
-| **Proyecto Cookies** | ![](https://mercafed.github.io/Proyectos-roadmap.sh/screenshot/javascript-cookies.png) | [Ver](https://mercafed.github.io/Proyectos-roadmap.sh/javascript/ProyectoJS-Cookies-main/index.html) |
-|**Proyecto Text Area Restricted** | ![](https://mercafed.github.io/Proyectos-roadmap.sh/screenshot/text-area.png) | [Ver](https://mercafed.github.io/Proyectos-roadmap.sh/javascript/Restricted_Textarea/index.html) |
+### javascript 
+- 01-[Proyecto de pestañas](https://roadmap.sh/projects/simple-tabs)
+- 02-[Proyecto de Cookies](https://roadmap.sh/projects/cookie-consent)
+- 03-[Proyecto de TextArea restringido](https://roadmap.sh/projects/restricted-textarea)
