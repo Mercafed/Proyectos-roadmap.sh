@@ -4,6 +4,7 @@ todos los proyectos que publique estan todos en un mismo lugar
 ## links de roadmap.sh
 ### HTML
 - 01-[proyecto de CV](https://roadmap.sh/projects/single-page-cv)
+- 02-[Proyecto paguna HTML basica](https://roadmap.sh/projects/basic-html-website)
 
 ### javascript 
 - 01-[Proyecto de pestañas](https://roadmap.sh/projects/simple-tabs)
