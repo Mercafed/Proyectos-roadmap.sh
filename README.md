@@ -10,3 +10,6 @@ todos los proyectos que publique estan todos en un mismo lugar
 - 01-[Proyecto de pestañas](https://roadmap.sh/projects/simple-tabs)
 - 02-[Proyecto de Cookies](https://roadmap.sh/projects/cookie-consent)
 - 03-[Proyecto de TextArea restringido](https://roadmap.sh/projects/restricted-textarea)
+
+### CSS
+- 01-[proyecto de CV - estilizar](https://roadmap.sh/projects/portfolio-website)
