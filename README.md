@@ -13,3 +13,4 @@ todos los proyectos que publique estan todos en un mismo lugar
 
 ### CSS
 - 01-[proyecto de CV - estilizar](https://roadmap.sh/projects/portfolio-website)
+- 02-[proyecto de linea de cambios](https://roadmap.sh/projects/changelog-component)
