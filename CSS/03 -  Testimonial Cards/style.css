@@ -9,11 +9,9 @@ body * {
 }
 
 .card {
-  padding: min(50px, 4%);
-
   display: grid;
 
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: 1fr 1fr;
   gap: 20px 50px;
   justify-items: start;
   align-items: start;
@@ -41,7 +39,7 @@ body * {
     content: "";
 
     position: absolute;
-    bottom: -20px;
+    bottom: -15px;
     left: 30px;
 
     border-left: 15px solid transparent;
@@ -95,6 +93,7 @@ body * {
   padding: 10px;
   margin: 10px;
   border-radius: 10px;
+  max-width: 500px;
 }
 
 .card2__perfil {
@@ -142,11 +141,12 @@ body * {
 .card3 {
   display: flex;
   gap: 10px;
+  padding: 0 20px;
 
-  height: 250px;
+  height: 30vw;
   max-height: 300px;
   width: 90%;
-  max-width: 800px;
+  max-width: 900px;
 
   justify-self: center;
 
@@ -154,9 +154,10 @@ body * {
 }
 
 .card3__img {
-  max-height: 100%;
   border-radius: 15px;
-}
+  height: 100%;
+  flex-grow: 0;
+} 
 
 .card3__contenedor {
   background-color: #101010;
@@ -164,8 +165,85 @@ body * {
   padding: 10px 20px;
   color: #e7e7e7;
   padding-bottom: 50px;
+  flex-basis: 50%;
+  flex-grow: 1;
+  height: 100%;
 }
 
 .card3__nombre {
   margin-bottom: 5px;
+}
+
+.cards {
+  margin: 20px;
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+.cards__comentario {
+  text-align: center;
+  padding: 20px;
+}
+
+.cards__contenedor {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.cards__perfil {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cards__img {
+  height: 70px;
+  border-radius: 50%;
+}
+
+.cards__img--left, .cards__img--right {
+  scale: 0.8;
+  opacity: .6;
+}
+
+.cards__informacion {
+  text-align: center;
+
+  & h2 {
+    margin: 5px;
+  }
+}
+
+.cards__cargo {
+  font-size: .85em;
+  opacity: .8;
+}
+
+/* para celulares */
+@media (max-width: 800px) {
+  .card {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    gap: 50px;
+  }
+
+  .card3 {
+    width: 100%;
+    grid-column: 1;
+    height: 300px;
+  }
+
+  .card3__img {
+    align-self: center;
+    height: 40vw;
+  }
+
+  .cards {
+    margin: 20px;
+  }
 }
