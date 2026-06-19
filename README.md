@@ -15,3 +15,4 @@ todos los proyectos que publique estan todos en un mismo lugar
 - 01-[proyecto de CV - estilizar](https://roadmap.sh/projects/portfolio-website)
 - 02-[proyecto de linea de cambios](https://roadmap.sh/projects/changelog-component)
 - 03-[cartas de testimonios](https://roadmap.sh/projects/testimonial-cards)
+- 04-[Data Pickeer](https://roadmap.sh/projects/datepicker-ui)
