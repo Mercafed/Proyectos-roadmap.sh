@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: #141414;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+.main {
+  display: grid;
+  max-width: 800px;
+  height: 100vh;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 10px;
+  grid-auto-rows: calc(100vh/3);
+  margin: 10px auto;
+}
+
+.main__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.main__image--2 {
+  grid-row: span 2;
+}

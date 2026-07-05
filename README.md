@@ -17,3 +17,4 @@ todos los proyectos que publique estan todos en un mismo lugar
 - 03-[cartas de testimonios](https://roadmap.sh/projects/testimonial-cards)
 - 04-[Data Pickeer](https://roadmap.sh/projects/datepicker-ui)
 - 05-[Form Ui](https://roadmap.sh/projects/accessible-form-ui)
+- 06-[Image Grid Layaout](https://roadmap.sh/projects/image-grid)
