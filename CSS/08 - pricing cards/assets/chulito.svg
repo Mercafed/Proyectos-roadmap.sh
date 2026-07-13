@@ -1,0 +1,10 @@
+<svg width="20" height="20" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <path transform="rotate(1.71968 48.3333 49.8148)" stroke="#007f3f" id="svg_1" d="m48.33333,84.67813c-19.62569,0 -35.5225,-15.60182 -35.5225,-34.86332c0,-19.2615 15.89681,-34.86332 35.5225,-34.86332c19.62569,0 35.5225,15.60182 35.5225,34.86332c0,19.2615 -15.89681,34.86332 -35.5225,34.86332z" opacity="undefined" fill="transparent"/>
+  <g stroke="null" id="svg_7">
+   <path stroke="#00bf00" stroke-width="5" id="svg_2" d="m9.95932,41.59291l36.76434,27.2789" opacity="undefined" fill="none"/>
+   <line stroke="#00bf00" stroke-width="5" id="svg_3" y2="69.32519" x2="43.53854" y1="6.09385" x1="87.35382" fill="none"/>
+  </g>
+ </g>
+</svg>
